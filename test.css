@@ -15,7 +15,7 @@ main, section, header, footer, nav {
 }
 
 header {
-    width: 1000px;
+    width: 100px;
     height: 100px;
     background-color: #ffd54f; 
     color: #333;
